@@ -17,9 +17,6 @@ O sistema carrega os buffers de áudio em memória RAM e utiliza o controlador D
 ├── PCM5102A_project.ioc   
 └── STM32F103C8TX_FLASH.ld 
 
----
-
-```text
 PCM5102A        STM32F103
 ---------------------------
   VIN --------->  3.3V
