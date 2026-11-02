@@ -1,0 +1,23 @@
+
+{
+    "configurations": [
+        {
+            "name": "STM32",
+            "includePath": [
+                "${workspaceFolder}/Core/Inc",
+                "${workspaceFolder}/Drivers/STM32F1xx_HAL_Driver/Inc",
+                "${workspaceFolder}/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy",
+                "${workspaceFolder}/Drivers/CMSIS/Device/ST/STM32F1xx/Include",
+                "${workspaceFolder}/Drivers/CMSIS/Include"
+            ],
+            "defines": [
+                "USE_HAL_DRIVER",
+                "STM32F103xB"
+            ],
+            "compilerPath": "/home/ricardo/x-tools/arm-tpse2-linux-musleabihf/bin/arm-tpse2-linux-musleabihf-gcc",
+            "cStandard": "c11",
+            "intelliSenseMode": "gcc-arm"
+        }
+    ],
+    "version": 4
+}
