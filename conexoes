@@ -1,8 +1,0 @@
-VIN  ->  3.3v
-GND  ->  GND
-LCK  ->  PB12
-DIN  ->  PB15
-BCK  ->  PB13
-SCK  ->  GND
-XSMT ->  3.3v
-FMT  ->  3.3v
